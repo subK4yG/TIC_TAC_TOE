@@ -1,10 +1,4 @@
 # tic-tac-toe
-TRIPTI AGARWAL-22051648                
-SUBHASMITA -22051640                
-YASH KUMAR-22053128               
-ANURAG KUMAR-22052622                                        
-AYUSH RAJ-22052545                          
-
 
 Compile the Java File: Save the provided Java code in a file named TicTacToeGUI.java. Open a command prompt or terminal window, navigate to the directory containing the file, and compile it using the Java compiler:
 
